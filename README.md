@@ -1,11 +1,10 @@
 # Projetos_ADS
-Códigos desenvolvidos durante os primeiros semestres da faculdade de ADS
+Códigos desenvolvidos durante os primeiros semestres da faculdade de ADS visando a melhoria do raciocionio lógico e exercitar conceitos vistos nas aulas.
 
-Sistema de Cadastro de Alunos:
+ Sistema de Cadastro de Alunos:
 
-Um aplicativo orientado a objetos (POO) que permite o cadastro de alunos, incluindo seus números de matrícula e notas.
+Um programa que permite o cadastro de alunos, incluindo seus números de matrícula e notas.
 Apresenta um menu de opções intuitivo que permite aos usuários visualizar as notas e números de matrícula dos alunos registrados.
-Implementado com sólidos princípios de programação orientada a objetos, utilizando classes, objetos, métodos e estruturas de controle para gerenciar os dados dos alunos com eficiência.
 
 
  Menu de Configuração de Vetor:
